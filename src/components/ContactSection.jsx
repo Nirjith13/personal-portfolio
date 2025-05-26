@@ -63,10 +63,10 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium">Email</h4>
                   <a
-                    href="mailto:yourname@gmail.com"
+                    href="#"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    yourname@gmail.com
+                    nirjith1311@gmail.com
                   </a>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium">Phone</h4>
                   <a
-                    href="tel:+11234567890"
+                    href="#"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
                     +1 (123) 456-7890
@@ -91,7 +91,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium">Location</h4>
                   <span className="text-muted-foreground">
-                    Your City, Your Country
+                    Coimbatore, India
                   </span>
                 </div>
               </div>
@@ -101,7 +101,7 @@ export const ContactSection = () => {
               <h4 className="font-medium mb-4">Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/Nirjith13"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition"
@@ -109,37 +109,23 @@ export const ContactSection = () => {
                   <Github />
                 </a>
                 <a
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://linkedin.com/in/Nirjith13"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition"
                 >
                   <Linkedin />
                 </a>
+                
                 <a
-                  href="https://twitter.com/yourusername"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-primary transition"
-                >
-                  <Twitter />
-                </a>
-                <a
-                  href="https://instagram.com/yourusername"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition"
                 >
                   <Instagram />
                 </a>
-                <a
-                  href="https://twitch.tv/yourusername"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-primary transition"
-                >
-                  <Twitch />
-                </a>
+                
               </div>
             </div>
           </div>

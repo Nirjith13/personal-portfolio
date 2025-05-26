@@ -11,22 +11,6 @@ export const Footer = () => {
 
       <div className="flex space-x-4">
         <a
-          href="https://github.com/dashboard"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors"
-        >
-          <Github size={20} />
-        </a>
-        <a
-          href="https://linkedin.com/in/Nirjith13"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors"
-        >
-          <Linkedin size={20} />
-        </a>
-        <a
           href="#hero"
           className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors"
         >
