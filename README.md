@@ -4,7 +4,7 @@ A sleek and fully responsive developer portfolio built using React.js and Tailwi
 
 🔧 Tech Stack :
 
-React.js – Component-based development
+React.js – Component-based development ,
 Tailwind CSS – Utility-first styling
 
 Live Link : https://personal-portfolio-pink-five-71.vercel.app/
