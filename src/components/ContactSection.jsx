@@ -80,7 +80,7 @@ export const ContactSection = () => {
                     href="#"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +1 (123) 456-7890
+                    +91 9994041045
                   </a>
                 </div>
               </div>
