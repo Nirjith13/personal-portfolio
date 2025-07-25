@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "BOOKMYJOURNEY - AI-INTEGRATED TRAVEL WEBSITE",
     description: "Full-stack travel planner using prompts to generate personalized trip results.",
-    image: "/projects/project1.png",
+    image: "/projects/image.png",
     tags: ["MERN", "TailwindCSS", "Gemini API"],
     demoUrl: "#",
     githubUrl: "#",
