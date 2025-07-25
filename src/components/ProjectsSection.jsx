@@ -15,7 +15,7 @@ const projects = [
     title: "INFLIGHT ENTERTAINMENT SYSTEM",
     description:
       "Modular in-flight system with food ordering,seat-to-seat chat, streaming, and AI chatbot features.",
-    image: "/projects/project2.png",
+    image: "/projects/adl.png",
     tags: ["MERN Stack", "Socket.io", "Next.js"],
     demoUrl: "#",
     githubUrl: "#",
